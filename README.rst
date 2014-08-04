@@ -13,6 +13,7 @@ Usage
 -----
 Just execute the script in the directory where the flac files are.
 
-$ ./flac2mp3 
+::
+    $ ./flac2mp3 
 
 
